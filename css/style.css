@@ -11,7 +11,7 @@ h1 {
   transform: translate(-50%, -50%);
   position: absolute;
   font-size: 130px;
-  color: white;
+  color: red;
   opacity: 0.3;
 }
 .noselect {
@@ -97,4 +97,6 @@ a:hover {
 	border-radius: 15px;
 }
 
+#muted {
 
+}

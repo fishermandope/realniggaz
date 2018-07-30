@@ -10,9 +10,9 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   position: absolute;
-  font-size: 6em;
-  color: grey;
-  opacity: 0.5;
+  font-size: 150px;
+  color: black;
+  opacity: 0.4;
 }
 .noselect {
   -webkit-touch-callout: none; /* iOS Safari /
@@ -44,7 +44,7 @@ a, visited {
 }
 
 a:hover{
-    color: #f536cf;
+    color: #e10531;
     text-decoration:none;
 }
 

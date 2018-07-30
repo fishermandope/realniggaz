@@ -1,0 +1,28 @@
+var message = new Array();
+message[0] =  "R";
+message[1] =  "RE";
+message[2] =  "REA";
+message[3] =  "REAL";
+message[4] =  "REALN";
+message[5] =  "REALNI";
+message[6] =  "REALNIG";
+message[7] =  "REALNIGG";
+message[8] =  "REALNIGGA";
+message[9] =  "REALNIGGAZ";
+message[10] = "REALNIGGAZ.";
+message[11] = "REALNIGGAZ.p";
+message[12] = "REALNIGGAZ.pw";
+message[13] = "REALNIGGAZ.pw";
+message[14] = "REALNIGGAZ.pw";
+message[15] = "REALNIGGAZ.pw";
+var reps = 2;
+var speed = 50; var p = message.length;
+var T = "";
+var C = 0;
+var mC = 0;
+var s = 0;
+var sT = null;
+if (reps < 1) reps = 1;
+
+T = message[mC];
+A();

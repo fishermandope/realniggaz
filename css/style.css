@@ -104,3 +104,10 @@ a:hover {
 	position: relative;
         left: 15px;
 }
+
+#dope {
+	width: 16px;
+	height 16px;
+	opacity: 0.2;
+
+}

@@ -11,8 +11,8 @@ h1 {
   transform: translate(-50%, -50%);
   position: absolute;
   font-size: 6em;
-  color: #fff;
-  text-shadow: 1.5px 1.5px 0px rgba(8,230,255,100), -1.5px -1.5px 0px rgba(255,0,0,100);
+  color: grey;
+  opacity: 0.5;
 }
 .noselect {
   -webkit-touch-callout: none; /* iOS Safari /
@@ -73,3 +73,28 @@ a:hover {
     width: 100%;
     overflow: hidden;
 }
+
+#steam {
+	border-style: double;
+	border-width: 7px;
+	padding: 15px;
+	border-radius: 15px;
+	margin-right: 10px;
+}
+
+#discord {
+	border-style: double;
+	border-width: 7px;
+	padding: 15px;
+	border-radius: 15px;
+	margin-right: 10px;
+}
+
+#music {
+	border-style: double;
+	border-width: 7px;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+

@@ -98,7 +98,7 @@ a:hover {
 }
 
 #muted {
-	width: 186px;
-	height: 186px;
-	filter: invert;
+	width: 64px;
+	height: 64px;
+	filter: invert(100%);
 }

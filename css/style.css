@@ -108,8 +108,27 @@ a:hover {
 #dope {
 	width: 100px;
 	height 100px;
-	opacity: 0.2;
+	opacity: 0.3;
 	position: relative;
 	left: 1785px;
+	top: 650px;
+}
+
+#krelle {
+	width: 100px;
+	height 100px;
+	opacity: 0.3;
+	position: relative;
+	left: 1770px;
+	top: 650px;
+}
+
+
+#steffy {
+	width: 100px;
+	height: 100px;
+	opacity: 0.3;
+	position: relative;
+	left: 1755px;
 	top: 650px;
 }

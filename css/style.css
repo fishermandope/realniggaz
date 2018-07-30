@@ -101,4 +101,5 @@ a:hover {
 	width: 64px;
 	height: 64px;
 	filter: invert(100%);
+	right: 30px;
 }

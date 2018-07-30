@@ -28,7 +28,7 @@ A();
 }
 function A() {
 s++;
-if (s > 15) { s = 1;}
+if (s > 14) { s = 1;}
 if (s == 1)  { document.title =  '+T+' '; }
 if (s == 2)  { document.title =  '+T+' '; }
 if (s == 3)  { document.title =  '+T+' '; }
@@ -43,8 +43,7 @@ if (s == 11) { document.title =  '+T+' '; }
 if (s == 12) { document.title =  '+T+' '; }
 if (s == 13) { document.title =  '+T+' '; }
 if (s == 14) { document.title =  '+T+' '; }
-if (s == 15) { document.title =  '+T+' '; }
-if (C < (15 * reps)) {
+if (C < (14 * reps)) {
 sT = setTimeout("A()", speed);
 C++;
 }

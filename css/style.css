@@ -10,8 +10,8 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   position: absolute;
-  font-size: 150px;
-  color: black;
+  font-size: 130px;
+  color: white;
   opacity: 0.4;
 }
 .noselect {

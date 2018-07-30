@@ -28,20 +28,8 @@
         </script> <script src="/js/title.js">
         </script></div>
     
-        <img src="/css/files/mute.png" id=muted onclick="changeImage()" />
-<script>    function changeImage() {
-
-        if (document.getElementById("muted").src == "/css/files/mute.png") 
-        {
-            document.getElementById("muted").src = "/css/files/unmute.png";
-        }
-        else 
-        {
-            document.getElementById("muted").src = "/css/files/mute.png";
-        }
-    }
-</script>
-    <script src="js/mutecontrol.js"></script>
+        <img src="/css/files/mute.png" id=muted onclick="this.src='/css/files/unmute.png'" />
+        <script src="js/mutecontrol.js"></script>
 
 </body>
 </html>

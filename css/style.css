@@ -80,7 +80,6 @@ a:hover {
 	padding: 15px;
 	border-radius: 15px;
 	margin-right: 10px;
-	position: absolute;
 }
 
 #discord {
@@ -89,7 +88,6 @@ a:hover {
 	padding: 15px;
 	border-radius: 15px;
 	margin-right: 10px;
-	position: absolute;
 }
 
 #music {
@@ -97,7 +95,6 @@ a:hover {
 	border-width: 7px;
 	padding: 15px;
 	border-radius: 15px;
-	position: absolute;
 }
 
 

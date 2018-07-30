@@ -110,8 +110,9 @@ a:hover {
 	height 100px;
 	opacity: 0.3;
 	position: relative;
-	left: 1785px;
-	top: 650px;
+	left: 1580px;
+	top: 750px;
+  border-radius: 15px;
 }
 
 #krelle {
@@ -119,8 +120,9 @@ a:hover {
 	height 100px;
 	opacity: 0.3;
 	position: relative;
-	left: 1770px;
-	top: 650px;
+	left: 1585px;
+	top: 750px;
+  border-radius: 15px;
 }
 
 
@@ -129,6 +131,7 @@ a:hover {
 	height: 100px;
 	opacity: 0.3;
 	position: relative;
-	left: 1755px;
-	top: 650px;
+	left: 1590px;
+	top: 750px;
+  border-radius: 15px;
 }

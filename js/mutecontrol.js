@@ -1,6 +1,6 @@
-var audio = document.getElementById('audio_bgm');
+var audio = document.getElementById('player');
  
-document.getElementById('togglebgm').addEventListener('click', function (e)
+document.getElementById('muted').addEventListener('click', function (e)
 {
 e = e || window.event;
 audio.muted = !audio.muted;
